@@ -1,6 +1,3 @@
----
-title: Welcome
----
 # Shadow of the Colossi
 
 ![[undead-giant4_o.jpg]]
