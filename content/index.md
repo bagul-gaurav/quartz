@@ -1,7 +1,9 @@
 ---
 title: Welcome
 ---
-![[undead-giant4_o.jpg|700]]
+# Shadow of the Colossi
+
+![[undead-giant4_o.jpg]]
 
 Shadows loom over the realm of Ecerah.
 An uncertain fate hangs over the people as unbeknownst to do them, heroic deeds of the past are about to be undone.
