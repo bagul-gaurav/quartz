@@ -1,3 +1,6 @@
+---
+title: Welcome
+---
 ![[undead-giant4_o.jpg|700]]
 
 Shadows loom over the realm of Ecerah.
