@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bagul-gaurav.github.io/Shadow-of-the-Colossi-ttrpg
+  baseUrl: bagul-gaurav.github.io/shadow-of-the-colossi-ttrpg
   ignorePatterns:
     - private
     - templates
